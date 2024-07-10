@@ -1,2 +1,2 @@
 # dll-parser
-Made With Hardwork
+Made With Hardwork and Patience.
